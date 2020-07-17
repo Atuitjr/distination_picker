@@ -1,8 +1,8 @@
 {
-  "name": "time-to-have-more-fun",
+  "name": "destination-picker",
   "version": "0.0.0",
-  "description": "Time to have more fun",
-  "author": "Brittany Chiang <brittany.chiang@gmail.com>",
+  "description": "Time to pick a destination",
+  "author": "Alberto Tuit <albertotuitjara@gmail.com>",
   "license": "MIT",
   "scripts": {
     "dev": "next",
